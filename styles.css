@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 110px;
+}
+
+h3{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: azure;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: azure;
+}
+.sedan{
+    background-color:rgb(250, 145, 24);
+    width: 200px;
+    height: 350px;
+    padding:  40px 20px 10px 20px;
+
+    
+
+}
+
+.SUV{
+    padding:  40px 20px 10px 20px;
+    background-color: rgb(3, 88, 84);
+    width: 200px;
+    height: 350px;
+    
+}
+
+.Luxury{
+    background-color:rgb(0, 58, 51);
+    width: 200px;
+    padding: 40px 20px 10px 20px;
+     height: 350px;
+}
+
+.btn1{
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 60px;
+    background: white;
+    color: rgb(250, 145, 24)
+    
+
+}
+
+.btn2{
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 60px;
+    background: white;
+    color: rgb(3, 88, 84);
+    
+    
+
+}
+
+.btn3{
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 60px;
+    background: white;
+    color:rgb(0, 58, 51) ;
+}
+
+img{
+    width: 30px;
+    height: 25px;
+}
